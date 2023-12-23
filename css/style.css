@@ -38,6 +38,10 @@ ul {
   letter-spacing: 0.02em;
 }
 
+.header-navigation-link:focus {
+  color: #404bbf;
+}
+
 .header-navigation:focus {
   color: #404bbf;
 }
@@ -63,6 +67,11 @@ ul {
 .header-contacts:focus,
 .header-contacts:hover,
 .header-contacts:active {
+  color: #404bbf;
+}
+
+.header-contacts-mail,
+.header-contacts-tel {
   color: #404bbf;
 }
 
