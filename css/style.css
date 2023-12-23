@@ -70,9 +70,13 @@ ul {
   color: #404bbf;
 }
 
-.header-contacts-mail,
-.header-contacts-tel {
+.header-contacts-address {
   color: #434455;
+}
+
+.header-contacts-address:hover,
+.header-contacts-address:focus {
+  color: #404bbf;
 }
 
 h1 {
